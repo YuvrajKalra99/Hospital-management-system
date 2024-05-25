@@ -6,7 +6,7 @@ public class Leaverequest {
     private Date startDate;
     private Date endDate;
     private String reason;
-    private LeaveRequestState state; // Corrected
+    private LeaveRequestState state; 
 
     public Leaverequest(int requestID, int doctorID, Date startDate, Date endDate, String reason, String pending) {
         this.requestID = requestID;
