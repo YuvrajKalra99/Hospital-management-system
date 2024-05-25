@@ -1,4 +1,4 @@
-import java.util.Date;
+import java.util.Date;  // Date and time
 
 public class AppointmentScheduler {
     private static AppointmentScheduler instance; // Static instance variable
