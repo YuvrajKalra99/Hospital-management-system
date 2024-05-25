@@ -1,4 +1,4 @@
-
+// person record
 public class patient extends person {
     private int age;
     private String address;
