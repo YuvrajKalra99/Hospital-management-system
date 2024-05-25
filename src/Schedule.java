@@ -1,3 +1,4 @@
+// Record Appointment details
 import java.util.List;
 
 public class Schedule {
